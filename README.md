@@ -4,6 +4,8 @@
 
 Esse projeto consiste em criar uma landing page para Furia com o objetivo de aumentar a comunidade Furia junto aos apaixonados por League of Legends.
 
+OBS: Esta é a versão do projeto sem conexão com o banco de dados. Portanto, seguindo as instruções, as informações do formulário não são armazenadas, mas ainda é possível receber o e-mail de confirmação de inscrição.
+
 ### 📝 Requisitos de elaboração 
 
 A criação da Landing Page foi livre.
@@ -36,7 +38,7 @@ Pequenas modificações foram realizadas durante a etapa de desenvolvimento. Com
 
 É possível visualizar a landing page pelo link https://flaviafogaca.github.io/desafio-lp/, porém, sem realizar os passos da "Descrição para Utilização", ao preencher o formulário irá aparecer uma mensagem de erro, uma vez que o servidor não está conectado ao formulário. 
 
-### 📣 Descrição para Utilização sem precisar criar banco de dados
+### 📣 Descrição para utilização
 
 1. Entre na pasta raíz do projeto `desafio-furia`;
 3. Vá para a pasta backend (certifique-se que o terminal seja rodado na pasta backend);
@@ -46,8 +48,6 @@ Pequenas modificações foram realizadas durante a etapa de desenvolvimento. Com
 7. Vá para a pasta desafio-furia e abra o arquivo index.html no seu navegador;
 8. Preencha o formulário da landing page e conclua sua inscrição no formulário de inscrição! Ao confirmar a incrição, você recebrá uma mensagem de confirmação tanto no navegador como no seu e-mail utilizado para preencher o formulário.
 ![email recebido após realizar a inscrição](src/assets/print/print_email.png)
-
-OBS: Esta é a versão do projeto sem conexão com o banco de dados. Portanto, seguindo as instruções, as informações do formulário não são armazenadas, mas ainda é possível receber o e-mail de confirmação de inscrição.
 
 </br>
 <p align="center">
