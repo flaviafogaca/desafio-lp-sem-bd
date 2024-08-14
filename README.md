@@ -2,7 +2,7 @@
 
 ### 💻 Descrição do Projeto
 
-Esse projeto consiste em criar uma landing page para Furia com o objetivo de aumentar a comunidade Furia junto aos apaixonados por League of Legends.
+Este projeto consiste em criar uma landing page para Furia com o objetivo de aumentar a comunidade Furia junto aos apaixonados por League of Legends.
 
 OBS: Esta é a versão do projeto sem conexão com o banco de dados. Portanto, seguindo as instruções, as informações do formulário não são armazenadas, mas ainda é possível receber o e-mail de confirmação de inscrição.
 
